@@ -24,7 +24,7 @@ body{
 }
 
 .frontal{
-    width: 45px;
+    width: 45%;
     height: 50px;
     display: flex;
     align-items: center;
